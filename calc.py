@@ -1,2 +1,3 @@
 class Calculate:
-  pass
+  def div(self):
+    return self.x/self.y
