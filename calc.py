@@ -1,2 +1,5 @@
 class Calculate:
-  pass
+    def sub(self):
+        return self.x - self.y
+
+
