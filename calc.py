@@ -1,2 +1,3 @@
 class Calculate:
-  pass
+  def mul(self):
+    return self.x * self.y
